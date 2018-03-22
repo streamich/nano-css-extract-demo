@@ -2,6 +2,15 @@
 
 Extracts `nano-css` styles into an external style sheet.
 
+## How-to
+
+Run these commands to executed demo.
+
+```shell
+npm install
+node extract.js
+```
+
 
 ## Usage
 
