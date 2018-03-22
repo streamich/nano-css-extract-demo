@@ -10,7 +10,7 @@ Its a three step process.
 
 ### Step 1: Add `extract` addon
 
-Create Node file that will do the extraction, say `extract.js`, import your instance of `nano-css`
+Create file that will do the extraction, say `extract.js`, import your instance of `nano-css`
 and add `extact` addon.
 
 ```js
