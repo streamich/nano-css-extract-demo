@@ -45,7 +45,7 @@ require('./src/components/Form');
 ### Step 3: Save your CSS
 
 All CSS that was possible to extract will now be available in `nano.raw` property.
-You can save it to file on the next tick.
+You can save it to a file on the next tick.
 
 ```js
 process.nextTick(() => {
