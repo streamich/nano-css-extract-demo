@@ -4,7 +4,7 @@ Extracts [`nano-css`](https://github.com/streamich/nano-css) styles into an exte
 
 ## How-to
 
-Run these commands to executed demo.
+Run these commands to execute demo.
 
 ```shell
 npm install
