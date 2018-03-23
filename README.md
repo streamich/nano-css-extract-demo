@@ -1,6 +1,6 @@
 # `extract` Addon Demo
 
-Extracts `nano-css` styles into an external style sheet.
+Extracts [`nano-css`](https://github.com/streamich/nano-css) styles into an external style sheet.
 
 ## How-to
 
